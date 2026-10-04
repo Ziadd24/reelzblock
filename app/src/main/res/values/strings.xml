@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ReelBlock</string>
+    <string name="accessibility_description">Blocks Instagram Reels by detecting Reels navigation and returning to the previous screen.</string>
+</resources>
